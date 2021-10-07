@@ -1,0 +1,12 @@
+npm init --yes
+npm i express
+npm i nodemon
+npm i mongoose (mongod inicializar)
+robot 3t para mongo
+npm i webpack 
+npm install @babel/core --save
+npm i babel-loader babel-preset-env vue-loader vue-template-compiler -D  --> traduce el codigo moderno de js
+npm i vue -D // como dependencia de desarrollo
+npm install --save-dev @babel/preset-env
+/**/
+npm run webpack

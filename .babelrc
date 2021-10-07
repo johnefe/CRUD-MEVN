@@ -1,0 +1,6 @@
+//creamos un objeto
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
